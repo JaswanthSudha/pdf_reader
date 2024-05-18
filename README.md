@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Streamlit](https://streamlit.io/) for the easy-to-use web application framework.
 
 ## Contact
-For any questions or suggestions, feel free to contact [Your Name](mailto:your.email@example.com).
+For any questions or suggestions, feel free to contact Sudha Jaswanth.

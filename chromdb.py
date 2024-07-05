@@ -47,5 +47,3 @@ def  loader_interface():
     return uploaded_file.name
 if __name__=="__main__":
   main()
-
-print("Contributing")
